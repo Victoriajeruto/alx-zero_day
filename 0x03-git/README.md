@@ -1,0 +1,1 @@
+This is my first git directory in zero proj on 26th sept
